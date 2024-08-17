@@ -1,4 +1,5 @@
-## Hi there 👋
+## Anurag Shingare 👋
+### JavaScript FullStack Developer
 
 <!--
 **anuragShingare30/anuragShingare30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
