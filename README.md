@@ -1,6 +1,6 @@
 
                                                                                   ### JavaScript FullStack Developer
-      -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
       
 ![techstack](https://github.com/user-attachments/assets/cb6b8ec2-247a-467e-a943-de77810ed7a5)![lang](https://github.com/user-attachments/assets/e1988fef-c4e9-42c7-843d-32875c71535d)
 
