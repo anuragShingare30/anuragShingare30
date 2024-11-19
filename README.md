@@ -33,4 +33,6 @@ src="https://img.shields.io/twitter/follow/Anurag_Pramod_S?logo=twitter&style=fo
 <a href="http://www.github.com/anuragShingare30"><img src="https://github-readme-stats.vercel.app/api?username=anuragShingare30&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="anuragShingare30's GitHub stats" /></a>
 
 <a href="https://github.com/anuragShingare30" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragShingare30&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![DSA4](https://github.com/user-attachments/assets/0c411c88-6571-4344-8e2a-99e8d183476e)
 https://www.profileme.dev/
