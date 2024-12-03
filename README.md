@@ -10,8 +10,8 @@ JavaScript FullStack Developer
 * 🤝  I'm open to collaborating on Decentralized and Web2 projects
 
 <a href="https://www.github.com/anuragShingare30" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/anuragShingare30?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Anurag_Pramod_S" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Anurag_Pramod_S?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/anuragShingare30?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/Anurag_Pramod_S" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Anurag_Pramod_S?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a>
 
 ### Skills
@@ -30,10 +30,6 @@ src="https://img.shields.io/twitter/follow/Anurag_Pramod_S?logo=twitter&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/anuragShingare30"><img src="https://github-readme-stats.vercel.app/api?username=anuragShingare30&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="anuragShingare30's GitHub stats" /></a>
+<a href="http://www.github.com/anuragShingare30"><img src="https://github-readme-stats.vercel.app/api?username=anuragShingare30&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="anuragShingare30's GitHub stats" /></a>
 
-<a href="https://github.com/anuragShingare30" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragShingare30&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### DSA(Leetcode + GFG + CodeChef)
-![DSA4](https://github.com/user-attachments/assets/0c411c88-6571-4344-8e2a-99e8d183476e)
-https://www.profileme.dev/
+<a href="https://github.com/anuragShingare30" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragShingare30&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
