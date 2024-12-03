@@ -33,3 +33,7 @@ src="https://img.shields.io/twitter/follow/Anurag_Pramod_S?logo=twitter&style=fo
 <a href="http://www.github.com/anuragShingare30"><img src="https://github-readme-stats.vercel.app/api?username=anuragShingare30&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="anuragShingare30's GitHub stats" /></a>
 
 <a href="https://github.com/anuragShingare30" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragShingare30&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## DSA (GFG + Leetcode)
+
+![DSA](https://github.com/user-attachments/assets/ec6af40a-7cd5-450a-9b67-99665879c325)
