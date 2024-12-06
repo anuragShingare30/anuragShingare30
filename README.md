@@ -8,8 +8,6 @@ JavaScript FullStack Developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragshingare30" alt="anuragshingare30" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anurag_pramod_s" target="blank"><img src="https://img.shields.io/twitter/follow/anurag_pramod_s?logo=twitter&style=for-the-badge" alt="anurag_pramod_s" /></a> </p>
-
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anuragshingare2005@gmail.com](mailto:anuragshingare2005@gmail.com)
@@ -31,10 +29,7 @@ src="https://img.shields.io/twitter/follow/Anurag_Pramod_S?logo=twitter&style=fo
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/anuragShingare30" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/anuragshingare_3011" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anurag-pramod-shingare-499553292" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Anurag_Pramod_S" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anurag_pramod_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anurag_pramod_s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anurag-pramod-shingare-499553292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-pramod-shingare-499553292" height="30" width="40" /></a>
@@ -45,17 +40,15 @@ src="https://img.shields.io/twitter/follow/Anurag_Pramod_S?logo=twitter&style=fo
 </p>
 
 
-### Badges
+### Badges and GitHub stats
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/anuragShingare30"><img src="https://github-readme-stats.vercel.app/api?username=anuragShingare30&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="anuragShingare30's GitHub stats" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragshingare30&show_icons=true&locale=en" alt="anuragshingare30" /></p>
 
 <a href="https://github.com/anuragShingare30" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragShingare30&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragshingare30&show_icons=true&locale=en" alt="anuragshingare30" /></p>
 
 ## DSA (GFG + Leetcode)
 
 ![DSA](https://github.com/user-attachments/assets/ec6af40a-7cd5-450a-9b67-99665879c325)
+
 ProfileMe.dev
