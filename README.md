@@ -43,6 +43,7 @@ src="https://img.shields.io/twitter/follow/Anurag_Pramod_S?logo=twitter&style=fo
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragshingare30&show_icons=true&locale=en" alt="anuragshingare30" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragshingare30&" alt="anuragshingare30" /></p>
 
 
 
