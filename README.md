@@ -16,6 +16,10 @@ src="https://img.shields.io/github/followers/anuragShingare30?logo=github&style=
 src="https://img.shields.io/twitter/follow/Anurag_Pramod_S?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a>
 
+### Blogs
+
+<a href="https://app.daily.dev/anuragiiitt"><img src="https://api.daily.dev/devcards/v2/HWlqjvZSl79rCUSk3LxVQ.png?r=q47&type=wide" width="652" alt="Anurag Pramod Shingare's Dev Card"/></a>
+
 ### Skills
 
 
