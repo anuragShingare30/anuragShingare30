@@ -7,9 +7,11 @@
 
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [anuragshingare2005@gmail.com](mailto:anuragshingare2005@gmail.com)
-* 🧠  I'm learning Ethereum Blockchain and Web3 Tech.
-* 🤝  I'm open to collaborating on Decentralized and Web2 projects
+- 🔭 I’m currently working on **Ethereum Blockchain and Smart contract security**
+- 📝 I regularly write articles on [https://app.daily.dev/squads/anuragiiitt](https://app.daily.dev/squads/anuragiiitt)
+- 📫 How to reach me **anuragshingare2005@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/anuragShingare30/](https://github.com/anuragShingare30/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U9sr9M1fMmR_7w0XtbTdn-E-eTJTJXT3/view?usp=sharing](https://drive.google.com/file/d/1U9sr9M1fMmR_7w0XtbTdn-E-eTJTJXT3/view?usp=sharing)
 
 <a href="https://www.github.com/anuragShingare30" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anuragShingare30?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/Anurag_Pramod_S" target="_blank" rel="noreferrer"><img
