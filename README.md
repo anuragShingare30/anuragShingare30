@@ -20,7 +20,7 @@ src="https://img.shields.io/twitter/follow/Anurag_Pramod_S?logo=twitter&style=fo
 
 ### Blog Posts
 
-<a href="https://app.daily.dev/anuragiiitt"><img src="https://api.daily.dev/devcards/v2/HWlqjvZSl79rCUSk3LxVQ.png?type=wide&r=jlz" width="652" alt="Anurag Pramod Shingare's Dev Card"/></a>
+<a href="https://app.daily.dev/anuragiiitt"><img src="https://api.daily.dev/devcards/v2/HWlqjvZSl79rCUSk3LxVQ.png?type=wide&r=jqe" width="652" alt="Anurag Shingare's Dev Card"/></a>
 
 ### Skills
 
