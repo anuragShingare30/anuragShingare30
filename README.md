@@ -53,10 +53,5 @@ src="https://img.shields.io/twitter/follow/Anurag_Pramod_S?logo=twitter&style=fo
 
 
 
-
-## DSA (GFG + Leetcode)
-
-![DSA](https://github.com/user-attachments/assets/ec6af40a-7cd5-450a-9b67-99665879c325)
-
 ProfileMe.dev
 https://rahuldkjain.github.io/gh-profile-readme-generator/
