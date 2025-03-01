@@ -11,6 +11,7 @@
 - 📝 I regularly write articles on [https://app.daily.dev/squads/anuragiiitt](https://app.daily.dev/squads/anuragiiitt)
 - 📫 How to reach me **anuragshingare2005@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/anuragShingare30/](https://github.com/anuragShingare30/)
+- 📝 Checkout my coding experience on https://codolio.com/profile/anuragShingare
 - 📄 Know about my experiences [https://drive.google.com/file/d/1U9sr9M1fMmR_7w0XtbTdn-E-eTJTJXT3/view?usp=sharing](https://drive.google.com/file/d/1OKxHpgDfWEOZr1nOxVsSm1m0IDzVVRD8/view?usp=sharing)
 
 <a href="https://www.github.com/anuragShingare30" target="_blank" rel="noreferrer"><img
