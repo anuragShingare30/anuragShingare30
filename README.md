@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragshingare30" alt="anuragshingare30" /></a> </p>
 
 
-* 🌍  I'm based in India
+- 👨‍💻 Check my DevFolio and Hackathon experiences here **https://devfolio.co/@abiencode**
 - 🔭 I’m currently working on **Ethereum Blockchain and Smart contract security**
 - 📝 I regularly write articles on [https://app.daily.dev/squads/anuragiiitt](https://app.daily.dev/squads/anuragiiitt)
 - 📫 How to reach me **anuragshingare2005@gmail.com**
-- 👨‍💻 All of my projects are available at [https://github.com/anuragShingare30/](https://github.com/anuragShingare30/)
-- 📝 Checkout my coding experience on https://codolio.com/profile/anuragShingare
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U9sr9M1fMmR_7w0XtbTdn-E-eTJTJXT3/view?usp=sharing](https://drive.google.com/file/d/1OKxHpgDfWEOZr1nOxVsSm1m0IDzVVRD8/view?usp=sharing)
+- 👨‍💻 All of my projects are available at **[https://github.com/anuragShingare30/](https://github.com/anuragShingare30/)**
+- 📝 Checkout my coding experience on **https://codolio.com/profile/anuragShingare**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1U9sr9M1fMmR_7w0XtbTdn-E-eTJTJXT3/view?usp=sharing](https://drive.google.com/file/d/1OKxHpgDfWEOZr1nOxVsSm1m0IDzVVRD8/view?usp=sharing)**
 
 <a href="https://www.github.com/anuragShingare30" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anuragShingare30?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/Anurag_Pramod_S" target="_blank" rel="noreferrer"><img
