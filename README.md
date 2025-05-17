@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragshingare30" alt="anuragshingare30" /></a> </p>
 
 
+- 🔭 I’m currently exploring **Ethereum Blockchain and Smart contract security**
 - 👨‍💻 Check my DevFolio and Hackathon experiences here **https://devfolio.co/@abiencode**
-- 🔭 I’m currently working on **Ethereum Blockchain and Smart contract security**
 - 📝 I regularly write articles on [https://app.daily.dev/squads/anuragiiitt](https://app.daily.dev/squads/anuragiiitt)
 - 📫 How to reach me **anuragshingare2005@gmail.com**
 - 👨‍💻 All of my projects are available at **[https://github.com/anuragShingare30/](https://github.com/anuragShingare30/)**
