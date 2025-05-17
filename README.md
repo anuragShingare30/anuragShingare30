@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Shingare</h1>
-<h3 align="center">A Smart Contract Developer</h3>
+<h3 align="center">A Smart Contract and Full-Stack Web3 Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragshingare30&label=Profile%20views&color=0e75b6&style=flat" alt="anuragshingare30" /> </p>
 
