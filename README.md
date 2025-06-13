@@ -12,7 +12,7 @@
 - 📫 How to reach me **anuragshingare2005@gmail.com**
 - 👨‍💻 All of my projects are available at **[https://github.com/anuragShingare30/](https://github.com/anuragShingare30/)**
 - 📝 Checkout my coding experience on **https://codolio.com/profile/anuragShingare**
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1U9sr9M1fMmR_7w0XtbTdn-E-eTJTJXT3/view?usp=sharing](https://drive.google.com/file/d/1OKxHpgDfWEOZr1nOxVsSm1m0IDzVVRD8/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1U9sr9M1fMmR_7w0XtbTdn-E-eTJTJXT3/view?usp=sharing](https://drive.google.com/file/d/1AMib9PLTPj4gN8HaIA4oqGhDpn8zs4fs/view?usp=sharing)**
 
 <a href="https://www.github.com/anuragShingare30" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anuragShingare30?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/Anurag_Pramod_S" target="_blank" rel="noreferrer"><img
