@@ -8,10 +8,10 @@
 
 - 🔭 I’m currently exploring **Ethereum Blockchain and Smart contract security**
 - 👨‍💻 Check my DevFolio and Hackathon experiences here **https://devfolio.co/@abiencode**
-- 📝 I regularly write articles on [https://app.daily.dev/squads/anuragiiitt](https://app.daily.dev/squads/anuragiiitt)
+- 📝 I regularly write articles on [Blog](https://app.daily.dev/squads/anuragiiitt)
 - 📫 How to reach me **anuragshingare2005@gmail.com**
-- 👨‍💻 All of my projects are available at **[https://github.com/anuragShingare30/](https://github.com/anuragShingare30/)**
-- 📝 Checkout my coding experience on **https://codolio.com/profile/anuragShingare**
+- 👨‍💻 All of my projects are available at **[Projects](https://github.com/anuragShingare30/)**
+- 📝 Checkout my coding experience on **[Coding](https://codolio.com/profile/anuragShingare)**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1y5nMp_UlLM0xDDqRpR6xnU_WMtcXD6dc/view?usp=sharing)**
 
 <a href="https://www.github.com/anuragShingare30" target="_blank" rel="noreferrer"><img
