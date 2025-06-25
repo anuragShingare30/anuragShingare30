@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Anurag Shingare</h1>
 <h3 align="center">Ethereum Developer and Security Researcher</h3>
 
-<p align="center">
-- 🔭 Experienced in **Ethereum Development and Security Researcher**
-- 👨‍💻 Check my DevFolio and Hackathon experiences here **https://devfolio.co/@abiencode**
-- 📝 I regularly write articles on [Web3 Blogs](https://app.daily.dev/squads/anuragiiitt)
-- 📫 How to reach me **anuragshingare2005@gmail.com**
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/anuragShingare30/)**
-- 📄 Know about my experiences **[CheckOut Resume](https://drive.google.com/file/d/1y5nMp_UlLM0xDDqRpR6xnU_WMtcXD6dc/view?usp=sharing)**
-</p>
-
-<a href="https://www.github.com/anuragShingare30" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/anuragShingare30?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/Anurag_Pramod_S" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Anurag_Pramod_S?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
-/></a>
+<p align="center"> - 🔭 Experienced in **Ethereum Development and Security Researcher** </p>
+<p align="center"> - 👨‍💻 Check my DevFolio and Hackathon experiences here **https://devfolio.co/@abiencode** </p>
+<p align="center"> - 📝 I regularly write articles on [Web3 Blogs](https://app.daily.dev/squads/anuragiiitt) </p>
+<p align="center"> - 📫 How to reach me **anuragshingare2005@gmail.com** </p>
+<p align="center"> - 👨‍💻 All of my projects are available at **[Github](https://github.com/anuragShingare30/)** </p>
+<p align="center"> - 📄 Know about my experiences **[CheckOut Resume](https://drive.google.com/file/d/1y5nMp_UlLM0xDDqRpR6xnU_WMtcXD6dc/view?usp=sharing)** </p>
 
 ### Blog Posts
 
-<a href="https://app.daily.dev/anuragiiitt"><img src="https://api.daily.dev/devcards/v2/HWlqjvZSl79rCUSk3LxVQ.png?type=wide&r=jqe" width="652" alt="Anurag Shingare's Dev Card"/></a>
+<p align="left">**[Blockchain Devops](https://dly.to/iXcIoG2SB0x)**</p>
+<p align="left">**[Blockchain Oracle Problems]([https://dly.to/iXcIoG2SB0x](https://dly.to/HxhMRZi7epb))**</p>
+<p align="left">**[Advanced EVM Opcodes]([https://dly.to/iXcIoG2SB0x](https://dly.to/lkHPqLMw35h))**</p>
+<p align="left">**[Uniswap V2](https://dly.to/PffvJlK43IY)**</p>
+
+<a href="https://app.daily.dev/anuragiiitt"><img src="https://api.daily.dev/devcards/v2/HWlqjvZSl79rCUSk3LxVQ.png?type=wide&r=jqe" width="500" alt="Anurag Shingare's Dev Card"/></a>
+
+
 
 ### Skills
 
