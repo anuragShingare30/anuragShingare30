@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anurag Shingare</h1>
-<h3 align="center">A Smart Contract and Full-Stack Web3 Developer</h3>
+<h3 align="center">Ethereum Developer and Security Researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragshingare30&label=Profile%20views&color=0e75b6&style=flat" alt="anuragshingare30" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragshingare30" alt="anuragshingare30" /></a> </p>
-
-
-- 🔭 I’m currently exploring **Ethereum Blockchain and Smart contract security**
+<p align="center">
+- 🔭 Experienced in **Ethereum Development and Security Researcher**
 - 👨‍💻 Check my DevFolio and Hackathon experiences here **https://devfolio.co/@abiencode**
-- 📝 I regularly write articles on [Blog](https://app.daily.dev/squads/anuragiiitt)
+- 📝 I regularly write articles on [Web3 Blogs](https://app.daily.dev/squads/anuragiiitt)
 - 📫 How to reach me **anuragshingare2005@gmail.com**
-- 👨‍💻 All of my projects are available at **[Projects](https://github.com/anuragShingare30/)**
-- 📝 Checkout my coding experience on **[Coding](https://codolio.com/profile/anuragShingare)**
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1y5nMp_UlLM0xDDqRpR6xnU_WMtcXD6dc/view?usp=sharing)**
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/anuragShingare30/)**
+- 📄 Know about my experiences **[CheckOut Resume](https://drive.google.com/file/d/1y5nMp_UlLM0xDDqRpR6xnU_WMtcXD6dc/view?usp=sharing)**
+</p>
 
 <a href="https://www.github.com/anuragShingare30" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anuragShingare30?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/Anurag_Pramod_S" target="_blank" rel="noreferrer"><img
