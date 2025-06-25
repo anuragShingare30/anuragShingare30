@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Shingare</h1>
 <h3 align="center">Ethereum Developer and Security Researcher</h3>
 
-
 - 🔭 Experienced in **Ethereum Development and Security Researcher** 
 - 👨‍💻 Check my DevFolio and Hackathon experiences here **https://devfolio.co/@abiencode** 
 - 📝 I regularly write articles on **[Web3 Blogs](https://app.daily.dev/squads/anuragiiitt)** 
@@ -9,15 +8,16 @@
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/anuragShingare30/)** 
 - 📄 Know about my experiences **[CheckOut Resume](https://drive.google.com/file/d/1y5nMp_UlLM0xDDqRpR6xnU_WMtcXD6dc/view?usp=sharing)**
 
-### Blog Posts
+
+
+
+
+# Blog Posts
 
 1. **[Blockchain Devops](https://dly.to/iXcIoG2SB0x)**
 2. **[Uniswap V2](https://dly.to/PffvJlK43IY)**
 3. **[Blockchain Oracle Problems](https://dly.to/HxhMRZi7epb)**
 4. **[Advanced EVM Opcode](https://dly.to/lkHPqLMw35h)**
-
-<a href="https://app.daily.dev/anuragiiitt"><img src="https://api.daily.dev/devcards/v2/HWlqjvZSl79rCUSk3LxVQ.png?type=wide&r=jqe" width="500" alt="Anurag Shingare's Dev Card"/></a>
-
 
 
 ### Skills
@@ -30,7 +30,6 @@
 
 ### Socials
 
-
 <p align="left">
 <a href="https://twitter.com/anurag_pramod_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anurag_pramod_s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anurag-pramod-shingare-499553292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-pramod-shingare-499553292" height="30" width="40" /></a>
@@ -39,17 +38,3 @@
 <a href="https://www.leetcode.com/anuragshingare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuragshingare" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anuragshinhg4h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anuragshinhg4h" height="30" width="40" /></a>
 </p>
-
-
-### Badges and GitHub stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragshingare30&show_icons=true&locale=en&layout=compact" alt="anuragshingare30" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragshingare30&show_icons=true&locale=en" alt="anuragshingare30" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragshingare30&" alt="anuragshingare30" /></p>
-
-
-
-ProfileMe.dev
-https://rahuldkjain.github.io/gh-profile-readme-generator/
