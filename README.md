@@ -39,16 +39,16 @@
 
 | Exploit findings and list           | Codebase       | Link and Resources  |
 |-------------------------------------|----------------|---------------------|
-| **Access Control**                      | PuppyRaffle    | Coming Soon...      |
-| **Private Variables / Public Data**     | PuppyRaffle    | Coming Soon...      |
-| **Proper Constructor Initialization**   | Password Store | Coming Soon...      |
-| **Phishing-style Attacks**              | PuppyRaffle    | Coming Soon...      |
-| **Denial of Service (DoS) Attack**      | PuppyRaffle    | Coming Soon...      |
-| **Re-entrancy Attack**                | PuppyRaffle    | Coming Soon...      |
-| **Arithmetic Overflow and Underflow**   | PuppyRaffle    | Coming Soon...      |
+| **Access Control**                      | PasswordStore    |  [contest](https://codehawks.cyfrin.io/c/2023-10-PasswordStore)      |
+| **Private Variables / Public Data**     | Privacy    | [CTF](https://ethernaut.openzeppelin.com/level/12)      |
+| **Proper Constructor Initialization**   | Fallout | [CTF](https://ethernaut.openzeppelin.com/level/2)      |
+| **Phishing-style Attacks**              | Telephone    | [CTF](https://ethernaut.openzeppelin.com/level/4)      |
+| **Denial of Service (DoS) Attack**      | PuppyRaffle    | [contest](https://codehawks.cyfrin.io/c/2023-10-Puppy-Raffle)      |
+| **Re-entrancy Attack**                | PuppyRaffle    | [contest](https://codehawks.cyfrin.io/c/2023-10-Puppy-Raffle)      |
+| **Arithmetic Overflow and Underflow**   | PuppyRaffle,Token    |  [contest](https://codehawks.cyfrin.io/c/2023-10-Puppy-Raffle), [ctf](https://ethernaut.openzeppelin.com/level/5)    |
 | **Hash Collision**                      | PuppyRaffle    | Coming Soon...      |
-| **Weak Randomness**                     | PuppyRaffle    | Coming Soon...      |
-| **Use of Delegatecall is Risky**        | PuppyRaffle    | Coming Soon...      |
+| **Weak Randomness**                     | PuppyRaffle    |  [contest](https://codehawks.cyfrin.io/c/2023-10-Puppy-Raffle)      |
+| **Use of Delegatecall is Risky**        | Delegation    | [contest](https://ethernaut.openzeppelin.com/level/6)     |
 | **Mis-handling of ETH**                 | PuppyRaffle    | Coming Soon...      |
 | **Replay Attacks**                      | PuppyRaffle    | Coming Soon...      |
 | **Weird ERC20**                         | PuppyRaffle    | Coming Soon...      |
