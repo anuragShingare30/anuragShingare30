@@ -3,7 +3,7 @@
 
 - 🔭 Experienced in **Ethereum Development and Security Researcher** 
 - 👨‍💻 Check my DevFolio and Hackathon experiences here **https://devfolio.co/@abiencode** 
-- 📝 I regularly write articles on **[Web3 Blogs](https://app.daily.dev/squads/anuragiiitt)** 
+- 📝 I regularly write articles on **[Web3 Blogs](https://coderlegion.com/user/abiEncode)** 
 - 📫 How to reach me **anuragshingare2005@gmail.com** 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/anuragShingare30/)** 
 - 📄 Know about my experiences **[CheckOut Resume](https://drive.google.com/file/d/1y5nMp_UlLM0xDDqRpR6xnU_WMtcXD6dc/view?usp=sharing)**
