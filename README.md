@@ -6,7 +6,7 @@
 - 📝 I regularly write articles on **[Web3 Blogs](https://coderlegion.com/user/abiEncode)** 
 - 📫 How to reach me **anuragshingare2005@gmail.com** 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/anuragShingare30/)** 
-- 📄 Know about my experiences **[CheckOut Resume](https://drive.google.com/file/d/1y5nMp_UlLM0xDDqRpR6xnU_WMtcXD6dc/view?usp=sharing)**
+- 📄 Know about my experiences **[CheckOut Resume](https://drive.google.com/file/d/1pQ4e5G5MWbtb0YUac0w1AEuZeY_jtKhK/view?usp=sharing)**
 
 
 
