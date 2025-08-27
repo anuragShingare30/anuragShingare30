@@ -31,6 +31,11 @@
 
 
 
+## Live Audit Contest
+
+|         Audit Contest               |     Platform       |       Finding Description      |
+|-------------------------------------|--------------------|--------------------------------|
+|        Morpheus                     |[Code4Arena](https://code4rena.com/audits/2025-08-morpheus)|N/A|
 
 
 
@@ -54,12 +59,3 @@
 | **Weird ERC20**                         | PuppyRaffle    | Coming Soon...      |
 | **Invariant Breaks**                    | PuppyRaffle    | Coming Soon...      |
 | **Slippage Protection**                 | PuppyRaffle    | Coming Soon...      |
-
-
-
-## Blog Posts
-
-1. **[Blockchain Devops](https://dly.to/iXcIoG2SB0x)**
-2. **[Uniswap V2](https://dly.to/PffvJlK43IY)**
-3. **[Blockchain Oracle Problems](https://dly.to/HxhMRZi7epb)**
-4. **[Advanced EVM Opcode](https://dly.to/lkHPqLMw35h)**
