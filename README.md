@@ -21,10 +21,11 @@
 ## 📌 Pinned Projects
 
 
-|          Project                            | Summary                                                                                                                                                  | Tools & Tech Used                                                 | Link                |
-|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------|
-|    **Custom EVM Indexer**      |           An Custom EVM Indexer developer tool similar to The-Graph, that captures EVM contract events in real-time, stores them in DB, and exposes them via a GraphQL API for seamless querying                                                 |           **NextJs,NodeJs,Viem,Supabase,GraphQL,PrismaORM,Apollo(server+client),SQL**                 | [View Project](https://github.com/anuragShingare30/custom-evm-indexer)   |
-|    **RootStock RNS Resolver**      |           Rootstock blockchain rns domain name resolver and domain name availability application. Build using rns-sdk for domain name resolver                                                 |           **NextJs,rns-sdk,TypeScript**                 | [View Project](https://github.com/anuragShingare30/Rootstock-rns)   |
+| Project                 | Summary                                                                                                                                                                                                 | Tools & Tech Used                                                                                       | Link                                                                                  |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| **Custom EVM Indexer - an developer tool**  | A custom EVM Indexer developer tool similar to The Graph, that captures EVM contract events in real-time, stores them in a DB, and exposes them via a GraphQL API for seamless querying.                 | **NextJs, NodeJs, Viem, Supabase, GraphQL, PrismaORM, Apollo (server+client), SQL**                      | [View Project](https://github.com/anuragShingare30/custom-evm-indexer)                |
+| **RootStock RNS- Domain Name Resolver** | Rootstock blockchain RNS domain name resolver and domain name availability application. Built using `rns-sdk` for domain name resolution.                                                             | **NextJs, rns-sdk, TypeScript**                                                                         | [View Project](https://github.com/anuragShingare30/Rootstock-rns)                     |
+
 
 
 
