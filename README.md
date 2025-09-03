@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Shingare</h1>
 <h3 align="center">Ethereum Developer and Security Researcher</h3>
 
-- 🔭 Experienced in **Ethereum Development and Security Researcher** 
-- 👨‍💻 Check my DevFolio and Hackathon experiences here **https://devfolio.co/@abiencode** 
+- 🔭 Experienced in **Ethereum Development and Security Researcher**  
 - 📝 I regularly write articles on **[Web3 Blogs](https://coderlegion.com/user/abiEncode)** 
 - 📫 How to reach me **anuragshingare2005@gmail.com** 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/anuragShingare30/)** 
@@ -22,11 +21,11 @@
 ## 📌 Pinned Projects
 
 
-| Project                            | Summary                                                                                                                                                  | Tools & Tech Used                                                 | Link                |
+|          Project                            | Summary                                                                                                                                                  | Tools & Tech Used                                                 | Link                |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------|
-| **DeFi Protocol: Account Abstraction** | A DeFi protocol enabling account abstraction. Users can create smart wallets for gasless transactions.                                                   | **Foundry, ERC-4337, Solidity, Account Abstraction**                 | [View Project](https://github.com/anuragShingare30/foundry_AccountAbstraction)   |
-| **Cross-Chain Token Transfer**     | A DeFi protocol implementing cross-chain token standards, rebase tokens, Chainlink CCIP, bridging, tranching, and a rebase token pool to manage supply. | **Foundry, Solidity, Chainlink CCIP, Rebase Tokens, Bridging**       | [View Project](https://github.com/anuragShingare30/DeFiProtocol_CrossChain_Tokens_Transfer)   |
-| **Stablecoin System Protocol**     | A decentralized, over-collateralized stablecoin protocol with robust liquidation and health factor mechanisms to ensure system stability.               | **Foundry, Solidity, Stablecoin, DeFi Protocol**                     | [View Project](https://github.com/anuragShingare30/DeFiProtocol_StableCoin)   |
+|    **Custom EVM Indexer**      |           An Custom EVM Indexer developer tool similar to The-Graph, that captures EVM contract events in real-time, stores them in DB, and exposes them via a GraphQL API for seamless querying                                                 |           **NextJs,NodeJs,Viem,Supabase,GraphQL,PrismaORM,Apollo(server+client),SQL**                 | [View Project](https://github.com/anuragShingare30/custom-evm-indexer)   |
+|    **RootStock RNS Resolver**      |           Rootstock blockchain rns domain name resolver and domain name availability application. Build using rns-sdk for domain name resolver                                                 |           **NextJs,rns-sdk,TypeScript**                 | [View Project](https://github.com/anuragShingare30/Rootstock-rns)   |
+
 
 
 
@@ -36,6 +35,7 @@
 |         Audit Contest               |     Platform       |       Finding Description      |
 |-------------------------------------|--------------------|--------------------------------|
 |        Morpheus                     |[Code4Arena](https://code4rena.com/audits/2025-08-morpheus)|N/A|
+|        Cueva SC DualDefense Audit                     |[Hackenproof](https://hackenproof.com/audit-programs/cueva-sc-dualdefense-audit)|N/A|
 
 
 
