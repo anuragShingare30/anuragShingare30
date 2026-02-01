@@ -79,6 +79,13 @@ DeFi architecture, cryptographic backends, and blockchain data infrastructure.
 
 ---
 
+
+## ⚒️ What I'm working on?
+
+- Building production grade and scalable backend infrastructure in Go, NodeJs+Ts
+- Studying and Contributing some of DeFi protocols
+
+
 ## 🌐 Socials
 
 <p align="left">
