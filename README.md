@@ -26,10 +26,13 @@ DeFi architecture, cryptographic backends, and blockchain data infrastructure.
 ### Open Source Developer | _Protocol labs_ 
 *Remote | Jan 2025 – Present*
 
-- Contributing to **Protocol labs(Storacha, Lib-P2P and Akave)**
-- Enhancing **real-world P2P interoperability and NAT traversal logic** to improve peer discovery, connectivity reliability, and decentralized file-sharing workflows
-- Building a **decentralized agent-coordination system** combining _ERC-8004 on-chain identity_, _x402 payment rails, and Storacha/IPFS storage_ to enable trust-anchored discovery, pay-per-task execution, and peer-to-peer data exchange between autonomous agents.
-- **Technologies:** NodeJs, Typescript, Solidity
+- Built high-throughput **backend services in Go for ingestion, batching, compression, and durable storage of large-scale event/log data**
+-	Architected a **hybrid on-chain/off-chain architecture** storing verifiable references on blockchain while persisting bulk data in decentralized object storage to reduce costs and improve scalability.
+-	Implemented **peer-to-peer networking features including NAT traversal** and direct node-to-node communication without centralized servers using libp2p
+-	Developed **indexed query engine with selective retrieval and progressive streaming**, enabling efficient search across large immutable datasets
+-	**[PR1](https://github.com/Nkovaturient/Rachax402/pull/4)**, **[PR2](https://github.com/anuragShingare30/akave-pldg/tree/main/akavelog)**
+
+- **Technologies:** Go, Python, Solidity, PostgreSQL, libp2p, Foundry, Decentralized Storage
 
 --------------
 
@@ -67,15 +70,22 @@ DeFi architecture, cryptographic backends, and blockchain data infrastructure.
 - Multi-tenant SDK enabling third-party apps to create and manage wallets securely using OAuth-style auth and API keys
 - Hardened wallet APIs with encrypted credentials, rate limiting, and secure wallet lifecycle tracking across chains
 
-### **Custom EVM Indexer**
-🔗 https://github.com/anuragShingare30/custom-evm-indexer 
+### **Akavelog - Decentralized log ingestion and Query platform**
+🔗 https://github.com/anuragShingare30/akave-pldg/tree/main/akavelog
 
-- Built a **real-time EVM indexer** for capturing and querying on-chain events
-- Architected a **4-layer system**: Indexer → Storage → GraphQL → UI
-- Implemented a custom **GraphQL query builder** for dynamic event filtering
-- Achieved **50+ users in v1**, validating scalability and production readiness
-- Currently building an **SDK** for plug-and-play dApp integration
-- **Technologies:** Next.js, Node.js, TypeScript, Viem, PostgreSQL, Supabase, GraphQL, Prisma, Apollo
+-	Designed a **decentralized observability pipeline to ingest, index, and query logs** while storing raw data immutably in content-addressed object storage
+-	Built high-throughput Go ingestion service performing **normalization, batching, and compression to reduce storage and transfer overhead**
+-	Implemented **indexed retrieval engine that selectively fetches relevant log batches** and streams filtered results progressively to clients
+-	Developed **multi-tenant alerting and query system** with project-scoped API keys and efficient metadata indexing in PostgreSQL
+- **Technologies:** Go, PostgreSQL, Akave O3(S3-Compatible), NextJs, Echo, Pgx, tern
+
+### **Rachax402 - Verifiable Agent Coordination Protocol**
+🔗 https://github.com/Nkovaturient/Rachax402/pull/4
+
+-	Developed ERC-8004 identity and reputation smart contracts enabling on-chain agent discovery and trust scoring
+-	Implemented comprehensive test suite including unit, fuzz, and invariant testing to validate protocol correctness and prevent state-corruption edge cases
+-	Designed contract storage and validation logic to support verifiable off-chain task execution and attestation workflows
+- **Technologies:** Solidity, Foundry, ERC-8004, EVM
 
 ---
 
