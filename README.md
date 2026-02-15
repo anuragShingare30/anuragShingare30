@@ -24,7 +24,7 @@ DeFi architecture, cryptographic backends, and blockchain data infrastructure.
 ## 💼 Experience
 
 ### Open Source Developer | _Protocol labs_ 
-*Remote | Jan 2025 – Present*
+*Remote | Jan 2026 – Present*
 
 - Built high-throughput **backend services in Go for ingestion, batching, compression, and durable storage of large-scale event/log data**
 - Architected a **hybrid on-chain/off-chain architecture** storing verifiable references on blockchain while persisting bulk data in decentralized object storage to reduce costs and improve scalability.
