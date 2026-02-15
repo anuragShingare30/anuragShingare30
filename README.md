@@ -27,12 +27,11 @@ DeFi architecture, cryptographic backends, and blockchain data infrastructure.
 *Remote | Jan 2025 – Present*
 
 - Built high-throughput **backend services in Go for ingestion, batching, compression, and durable storage of large-scale event/log data**
--	Architected a **hybrid on-chain/off-chain architecture** storing verifiable references on blockchain while persisting bulk data in decentralized object storage to reduce costs and improve scalability.
--	Implemented **peer-to-peer networking features including NAT traversal** and direct node-to-node communication without centralized servers using libp2p
+- Architected a **hybrid on-chain/off-chain architecture** storing verifiable references on blockchain while persisting bulk data in decentralized object storage to reduce costs and improve scalability.
+- Implemented **peer-to-peer networking features including NAT traversal** and direct node-to-node communication without centralized servers using libp2p
 -	Developed **indexed query engine with selective retrieval and progressive streaming**, enabling efficient search across large immutable datasets
--	**[PR1](https://github.com/Nkovaturient/Rachax402/pull/4)**, **[PR2](https://github.com/anuragShingare30/akave-pldg/tree/main/akavelog)**
-
 - **Technologies:** Go, Python, Solidity, PostgreSQL, libp2p, Foundry, Decentralized Storage
+-	**[PR1](https://github.com/Nkovaturient/Rachax402/pull/4)**, **[PR2](https://github.com/anuragShingare30/akave-pldg/tree/main/akavelog)**
 
 --------------
 
