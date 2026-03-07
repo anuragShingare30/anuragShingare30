@@ -108,3 +108,11 @@ DeFi architecture, cryptographic backends, and blockchain data infrastructure.
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 </p>
+
+Before starting the walkthrough, here is a quick summary of what this prototype demonstrates.
+
+This prototype implements a simple end-to-end consent workflow to validate the core idea behind the project: secure, user-controlled data access in IoT care systems. In this setup, a caregiver can request access to a patient’s data, the patient can either approve or deny that request, and any participant can later verify the final access status.
+
+Each step updates the system state and is recorded so that the decision process remains transparent and traceable. This mirrors the governance and audit trail that the full project aims to provide.
+
+The goal of this prototype is to prove that the basic workflow works reliably, forming the foundation for extending the system later with more advanced governance rules, compliance checks, and multi-party oversight.
